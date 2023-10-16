@@ -1,0 +1,35 @@
+export default {
+  for_a_fit_and_relaxed_pregnancy: "For a fit and relaxed pregnancy",
+  get_started: "Get Started",
+  or_login: "Or login",
+  welcome_back: "Welcome Back!",
+  example_email: "example@gmail.com",
+  enter_a_password: "Enter a password",
+  have_you_forgotten_your_password: "Have you forgotten your password?",
+  login: "Login",
+  add_your_details: "Add your details below to set up an account",
+  ive_read_the: "I've read the",
+  privacy_policy: "Privacy Policy",
+  i_accept_the: "I accept the",
+  terms_and_conditions: "terms and conditions",
+  keleyas_advice: "Keleya's advice",
+  create_account: "Create Account",
+  its_great_that_you:
+    "It's great that you're here! First things first, what should we call you?",
+  your_name: "Your Name",
+  continue: "Continue",
+  when_is_your_baby_due: "When is your baby due, {{name}}?",
+  due_date: "Due Date",
+  how_many_times_a_week_do_you_want_to_be_active:
+    "How many times a week do you want to active?",
+  times_a_week: "times a week",
+  once_a_week: "Once a week",
+  get_notifications_to_boost_your_motivation:
+    "Get notifications to boost your motivation",
+  skip: "Skip",
+  allow_notifications: "Allow notifications",
+  this_field_is_required: "This field is required",
+  invalid_email_format: "Invalid email format",
+  invalid_password:
+    "Minimum eight characters, at least one letter and one number",
+};
