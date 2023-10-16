@@ -3,7 +3,7 @@
 ### Description
 This React Native (typescript) app contains a mini-onboarding flow for a Pregnancy App.
 
-*Note: The app follows the device language, and it currently supports English and German languages.*
+*Note: The app follows the device language, and it currently supports English and German languages. If the device language is not supported, we fallback to using English*
 
 ### To run this app:
 
