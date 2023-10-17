@@ -6,7 +6,6 @@ import { theme } from "./app/theme/theme";
 import Loader from "./app/components/kit/Loader";
 import { ThemeProvider } from "@rneui/themed";
 import { useLoadFonts } from "./app/hooks/use-load-fonts";
-import { useI18n, useInitI18n } from "./app/hooks/use-i18n";
 import { I18nContextProvider } from "./app/contexts/I18nContext";
 
 const App = () => {
